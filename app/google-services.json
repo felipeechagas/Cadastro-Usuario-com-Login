@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065822145316",
+    "project_id": "projeto-cadastro-usuario-7f210",
+    "storage_bucket": "projeto-cadastro-usuario-7f210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065822145316:android:48dab72c46812e2bc0c1b1",
+        "android_client_info": {
+          "package_name": "br.com.dio.projetocadastrousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065822145316-ep6ap4o49tm73nbj1dbcru2kfgcfkgh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYO2kMr3r0Khp9-d5IIWLgrpgzQZrGSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065822145316-ep6ap4o49tm73nbj1dbcru2kfgcfkgh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
